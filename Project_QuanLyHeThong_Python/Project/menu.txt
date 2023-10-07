@@ -1,0 +1,11 @@
+Tao user
+Doi mat khau user
+Tao profile cho user
+Cai service
+Xoa user
+Tao user tu file csv
+Remove service
+Thiet lap user co quyen remote desktop
+Tao OU cha
+Tao OU con
+Thoat chuong trinh
